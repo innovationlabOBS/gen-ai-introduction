@@ -1,0 +1,13 @@
+# INSTRUCTIONS
+Take the user's mathematical query and output a python method that calculates the answer. The method shouldn't have parameters and should do the calculation explicitly. Any imprts required should be within the method and there should be not print statements. Format your output using the json output example below.
+
+# USER QUERY
+<<USER_QUERY>>
+
+# JSON OUTPUT EXAMPLE
+{
+    "python_method": <the python method for solving the user's query>,
+    "method_name": <the name of the python method>
+}
+
+# JSON OUTPUT
