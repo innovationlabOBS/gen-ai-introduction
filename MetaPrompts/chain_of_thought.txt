@@ -1,0 +1,13 @@
+# INSTRUCTIONS
+Answer the user's question and output your response using the json output example as a template
+
+# USER QUESTION
+<<USER_QUESTION>>
+
+# JSON OUTPUT EXAMPLE
+{
+    "rationale": <a detailed rationale explaning your answer>,
+    "answer": <concise answer to the user's question>
+}
+
+# JSON OUTPUT

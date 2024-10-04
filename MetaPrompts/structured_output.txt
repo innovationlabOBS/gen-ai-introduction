@@ -1,0 +1,16 @@
+# INSTRUCTIONS
+Output a json object that contains the hobbies and favorite foods below. Use the json example as a template for the output.
+
+# HOBBIES
+<<HOBBIES>>
+
+# FAVORITE FOODS
+<<FAVORITE_FOODS>>
+
+# JSON OUTPUT EXAMPLE
+{
+    "hobbies": <array of hobbies>,
+    "foods": <array of favorite foods>
+}
+
+# JSON OUTPUT

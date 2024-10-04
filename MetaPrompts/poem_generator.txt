@@ -1,0 +1,8 @@
+# INSTRUCTIONS
+Write a poem about the following subject in the style of the following author
+
+# SUBJECT
+<<SUBJECT>>
+
+# AUTHOR
+<<AUTHOR>>

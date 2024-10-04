@@ -1,0 +1,10 @@
+# INSTRUCTIONS
+Using the supporting documentation below, answer the user's query
+
+## SUPPORTING DOCUMENTATION
+<<RAG_CHUNKS>>
+
+## USER QUERY
+<<USER_QUERY>>
+
+## ANSWER
