@@ -1,7 +1,8 @@
 ######################################################################
-# This is an example of how to use the llm to generate structured data.
-# This can be useful for generating multiple output per inference, as well
-# as generating structured data for conventional downstream code.
+# This is an example of how to use the llm for function calling. Instead
+# of the llm answering a math question directly ( which llm's are notoriously
+# bad at ), we can ask the llm to generate a function that will solve the
+# math problem.
 ######################################################################
 
 import os
