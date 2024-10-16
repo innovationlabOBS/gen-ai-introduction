@@ -23,8 +23,7 @@ def json_repair(text):
             json_obj = json.loads(json_str)
             return json_obj
         except json.JSONDecodeError:
-            print("Found JSON-like text, but it's not valid JSON.")
-            return None
+            raise
     else:
         print("No JSON object found in the text.")
         return None
