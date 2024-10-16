@@ -1,1 +1,1 @@
-![Alt text](https://github.com/innovationlabOBS/gen-ai-introduction/blob/main/Image%20Files/Azure%20Prompt%20Flow/intro.png?raw=true "Intro")
+![Alt text](https://github.com/innovationlabOBS/gen-ai-introduction/blob/main/Images%20Files/Azure%20Prompt%20Flow/intro.png?raw=true "Intro")
